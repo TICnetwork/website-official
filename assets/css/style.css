@@ -1658,7 +1658,7 @@ header a:hover,.navbar-nav li a.active {
 	background: -webkit-linear-gradient(left, rgba(117,88,165,1) 0%,rgba(37,184,213,1) 99%);
 	background: linear-gradient(to right, rgba(117,88,165,1) 0%,rgba(37,184,213,1) 99%);
 }
-.team_info h4 a {
+.team_info h4{
 	color: #ffffff;
 	font-size: 18px;
 	font-weight:bold;
