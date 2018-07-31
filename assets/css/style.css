@@ -1660,13 +1660,14 @@ header a:hover,.navbar-nav li a.active {
 }
 .team_info h4 a {
 	color: #ffffff;
-	font-size: 22px;
+	font-size: 18px;
 	font-weight:bold;
 }
 .team_info p {
 	color: #ffffff;
 	line-height: normal;
 	margin: 0;
+	font-size: 15px;
 }
 .team_img {
 	overflow: hidden;
